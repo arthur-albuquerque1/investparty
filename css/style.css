@@ -20,7 +20,7 @@ header {
 }
 section{
     padding: 20px;
-    background-image: url(./images/lecture.jpg);
+    background-image: url(/images/lecture.jpg);
     background-size: cover;
     overflow: hidden;
     color: white;
