@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+.big-container {
+    max-width: 60%;
+    margin: auto;
+}
+header {
+    background-color: #E98A15;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.small-container {
+    background-image: url(./images/lecture.jpg);
+    overflow: hidden;
+    min-height: 640px;
+}
+.smaller-container {
+    background-color: rgba(89, 17, 77, 0.8);
+    max-width: 260px;
+    float: right;
+    color: white;
+    padding: 15px;
+    margin: 25px;
+}
+.inputs {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+#button {
+    color: white;
+    background-color: rgb(233, 138, 21);
+}
+#button:hover {
+    cursor: pointer;
+}
+.bottom-container {
+    background-color: #012622;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 150px;
+}
+img {
+    width: 200px;
+}
+.bottom-text {
+    display: inline-block;
+    color: white;
+    max-width: 40%;
+    margin-left: 40px;
+    text-align: left;
+}
