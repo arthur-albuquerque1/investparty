@@ -1,7 +1,7 @@
 <h1>InvestParty, página de captura de dados</h1> <br>
 Página de captura de dados, para um evento fictício chamado InvestParty <br> <br> <br>
 
-<img src="./investparty.gif">
+<img src="./invest.gif">
 
 Tecnologias utilizadas no projeto:
 <ul>
